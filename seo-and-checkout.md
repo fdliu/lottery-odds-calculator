@@ -20,7 +20,7 @@
 - Meta description：含 `lottery odds calculator` + `expected value` + 三个彩种名
 - H1：`Know your real lottery odds before you buy a ticket.`
 - 结构化数据：`FAQPage` schema（可抢搜索结果的 FAQ 折叠富摘要）
-- 待办：上线后把 `landing-page.html` 里的 `canonical` 换成真实域名。
+- 待办：上线后把 `index.html` 里的 `canonical` 换成真实域名。
 
 ### 博客选题（SEO 拉流量，10 篇起步）
 1. What are the real odds of winning Powerball?
@@ -49,10 +49,10 @@
 - 源码（$79）→ **Gumroad + CodeCanyon** 双挂，CodeCanyon 对"卖代码"天然有买家流量。
 - 收款回国：注册 **PayPal + Payoneer**，再提现到国内卡。
 
-**如何接通**：把真实结账链接填进 `landing-page.html` 底部的 `CHECKOUT` 对象，替换 `YOUR_ACCOUNT.gumroad.com/...` 这段占位；按钮会自动跳转，未配置时会提示你。
+**如何接通**：把真实结账链接填进 `index.html` 底部的 `CHECKOUT` 对象，替换 `YOUR_ACCOUNT.gumroad.com/...` 这段占位；按钮会自动跳转，未配置时会提示你。
 
 ## 三、上线检查清单
-1. 改 `landing-page.html` 的 `CHECKOUT` 两个链接。
+1. 改 `index.html` 的 `CHECKOUT` 两个链接。
 2. 改 `canonical` 为真实域名。
 3. 绑定域名 + HTTPS。
 4. 提交 Google Search Console + Bing Webmaster，提交 sitemap。
