@@ -3,36 +3,36 @@
 ## 一、SEO 关键词策略
 
 ### 主关键词（Title/H1 已用）
-- `lottery odds calculator`
-- `lottery expected value calculator`
+- `odds & EV calculator`
+- `expected value calculator`
 - `Powerball odds` / `Mega Millions odds`
 
 ### 长尾关键词（写博客/FAQ 打 featured snippet）
 - `what are the odds of winning powerball`
-- `is buying a lottery ticket worth it`
-- `how to calculate lottery expected value`
+- `is buying a ticket worth it`
+- `how to calculate expected value`
 - `powerball jackpot odds 1 in`
 - `mega millions odds of winning any prize`
-- `lottery EV calculator`
+- `EV calculator`
 
 ### 已写入落地页的 SEO 元素
-- Title：`Lottery Odds Calculator — Real Odds & Expected Value (EV)`
-- Meta description：含 `lottery odds calculator` + `expected value` + 三个彩种名
-- H1：`Know your real lottery odds before you buy a ticket.`
+- Title：`Odds & EV Calculator — Real Probability & Expected Value`
+- Meta description：含 `odds & EV calculator` + `expected value` + 三个彩种名
+- H1：`Know your real odds before you play.`
 - 结构化数据：`FAQPage` schema（可抢搜索结果的 FAQ 折叠富摘要）
 - 待办：上线后把 `index.html` 里的 `canonical` 换成真实域名。
 
 ### 博客选题（SEO 拉流量，10 篇起步）
 1. What are the real odds of winning Powerball?
 2. Mega Millions odds, explained tier by tier
-3. Is buying a lottery ticket ever worth it? (EV explained)
-4. Lottery expected value: the math most players never see
+3. Is buying a ticket ever worth it? (EV explained)
+4. Expected value: the math most players never see
 5. Powerball vs Mega Millions: which has better odds?
 6. Why "hot and cold numbers" don't work
 7. Annuity vs lump sum: what the numbers say
-8. How lottery jackpot splitting lowers your real value
+8. How jackpot splitting lowers your real value
 9. EuroMillions odds and prize tiers, explained
-10. 5 lottery myths debunked with math
+10. 5 probability myths debunked with math
 
 ## 二、收款渠道（静态页不能直接收钱，需外接托管结账）
 

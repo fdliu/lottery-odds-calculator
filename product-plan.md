@@ -1,4 +1,4 @@
-# 彩票工具 · 产品方案与英文落地页文案
+# 概率与 EV 工具 · 产品方案与英文落地页文案
 
 ## 一、核心算法公式
 
@@ -17,7 +17,7 @@
 
 ### Hero
 - H1：`Know Your Real Odds Before You Buy a Ticket`
-- Sub：`The lottery odds & expected-value calculator that tells you the truth — no fake "winning predictions."`
+- Sub：`The odds & expected-value calculator that tells you the truth — no fake "winning predictions."`
 - CTA 按钮：`Try the free calculator`
 
 ### How it works（三步）
@@ -32,7 +32,7 @@
 
 ### 诚实宣言（核心差异化卖点）
 - 标题：`If a tool promises to predict the next draw, it is lying to you.`
-- 正文：`Draws are independent. No "AI" can see the future. We show your real odds and expected value instead — because that is the only honest number a lottery player can know.`
+- 正文：`Draws are independent. No "AI" can see the future. We show your real odds and expected value instead — because that is the only honest number a player can know.`
 
 ### Pricing
 - Free：odds calculator + quick pick（引流 + 收邮箱）
@@ -40,13 +40,13 @@
 
 ### FAQ（示例）
 - Q：Can this improve my odds of winning? A：No. Nothing can. It shows your real odds and whether the math favors buying a ticket.
-- Q：Is this affiliated with Powerball or Mega Millions? A：No. It is an independent tool, not endorsed by any lottery operator.
+- Q：Is this affiliated with Powerball or Mega Millions? A：No. It is an independent tool, not endorsed by any game operator.
 - Q：Why does EV matter? A：It tells you the average value of one ticket. Most draws are negative EV; only a very large jackpot can briefly flip it positive.
 - Q：Which games are supported? A：Powerball, Mega Millions, EuroMillions, plus custom games.
 - Q：Refunds? A：30-day money-back guarantee.
 
 ### Footer / Disclaimer
-`Entertainment only. Not affiliated with or endorsed by any lottery operator. 18+. Play responsibly.`
+`Entertainment only. Not affiliated with or endorsed by any game operator. 18+. Play responsibly.`
 
 ## 三、定价建议
 
